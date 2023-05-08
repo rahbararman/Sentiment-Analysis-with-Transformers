@@ -5,10 +5,10 @@ import os
 
 #Hyperparameters
 learning_rate = 1e-3
-n_embed = 8 #64
+n_embed = 8 
 head_size = 4
 n_layer = 4
-batch_size = 8 #16
+batch_size = 8 
 total_epochs = 4
 num_classes = 2
 
